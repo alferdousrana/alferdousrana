@@ -40,7 +40,6 @@ I enjoy designing backend logic, APIs, database structures, authentication syste
 ### 🔹 Deployment
 - PythonAnywhere
 - Vercel
-- cPanel
 
 ---
 
